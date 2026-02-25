@@ -18,7 +18,7 @@
 
 ## Project Description
 
-CodeSovereigns presents a complete e-commerce website for electronic products like laptops, mobiles, monitors, keyboards, and more. The homepage features clear navigation with dedicated sections for each category. A product filter helps users find items based on their preferences. Customers can browse products, view details, and add them to a cart or wishlist. User accounts allow login and easy preference management.
+CodeSovereigns presents a complete e-commerce website **ElectroBay** for electronic products like laptops, mobiles, monitors, keyboards, and more. The homepage features clear navigation with dedicated sections for each category. A product filter helps users find items based on their preferences. Customers can browse products, view details, and add them to a cart or wishlist. User accounts allow login and easy preference management.
 
 ---
 
